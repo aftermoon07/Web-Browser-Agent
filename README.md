@@ -420,4 +420,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-**Built with ❤️ by Rajas for intelligent web search**
+**Built with ❤️ by Aditya for intelligent web search**
