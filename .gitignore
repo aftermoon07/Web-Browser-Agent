@@ -1,0 +1,25 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Runtime data & debug output
+*.db
+*.sqlite
+*.sqlite3
+debug_page.html
+
+# Node / Next.js (frontend has its own .gitignore too)
+node_modules/
+.next/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
